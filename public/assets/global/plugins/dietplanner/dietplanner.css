@@ -1,0 +1,246 @@
+
+             .mt-checkbox, .mt-radio {
+              vertical-align:inline-block;
+			 position: relative;
+			 float:right;
+			 right:35px;
+			 margin-left: 5px;
+            margin-bottom: 0px;
+               }
+              .heading{
+				  font-weight:bolder;
+				  color: #6586A7;
+			  }
+               .mt-element-step .step-line .mt-step-col {
+                   padding-top: 0px;
+                   text-align: center;
+               }
+               .select-patient-portlet{
+                   padding-bottom: 0px !important;
+                   margin-bottom: 0px !important;
+               }
+               .profile-usermenu {
+                    padding-bottom: 0px;
+                }
+                .step-buttons > div{
+                    margin: 10px 0px;
+                }
+				.food-panel-cat{
+					width: 250px;
+					padding: 0px 0px;
+					margin-left: 0px;
+					margin-top: 0px;
+					margin-right: 10px;
+					margin-bottom: 10px;
+				}
+				.patientname{
+					sfont-size:20px;
+					margin-left:35px;
+				}
+				.pimge{
+					height="40" ;
+				   display:inline-block;
+				    float:left;
+				    margin-right:12px;
+				}
+				.pnumber{
+					vertical-align:inline-block;
+					float:right;
+					margin-right:17px;
+					font-size:16px;
+				}
+				.foodfilters
+			   {
+				   background-color: white;
+			   }
+				.food-panel-cat li{
+					background-color: transparent;
+				}
+				.food-panel-cat h3{
+					margin: 0px 0px;
+					padding: 10px 10px;
+					font-size: 16px !important;
+				}
+				.food-panel-cat h4{
+					margin: 0px 0px;
+					padding: 10px 10px;
+					font-size: 16px !important;
+				}
+				.food-panel-cat li .form-group{
+					margin-bottom:0px;
+					margin-left: 0px;
+				}
+				.food-panel-cat li{
+					padding: 5px 10px;
+				}
+				.food-panel-cat li .control-label{
+					padding-top: 3px;
+					text-align:left;
+					padding-bottom: 3px;
+					font-weight: 700;
+                                        font-size: 12px;
+				}
+				.food-panel-cat  .form-control {
+					width: initial;
+					height: 27px;
+					padding: 0px 1px;
+					display: inline;
+				}
+				.food-panel-cat  .form-control, output {
+					font-size: 12px;
+				}
+			/*	.food-panel-cat li .col-md-5{
+					padding-left: 5px;
+					padding-right: 5px;
+				}*/
+				.food-panel-cat li .col-md-7{
+					padding-left: 0px;
+				}
+				#food-list table{
+					width:100%;
+				}
+				#food-list table td{
+					white-space: nowrap;  /** added **/
+				}
+				#food-list table td:last-child{
+					width:100%;
+				}
+				#food-list .theme-panel {
+					min-width: 350px;
+				}
+				#food-list .theme-panel{
+					background-color:rgba(103, 128, 159, 0.9);
+				}
+				.dp-exp-set{
+					padding: 15px 10px !important;
+				}
+				.dp-exp-set .lbl-bg-black{
+					color: black;
+					font-weight: 600;
+				}
+				.dp-exp-set > .lbl-bg-white{
+					color: white;
+					font-weight: 600;
+				}
+				.dp-exp-set .form-control {
+					margin-top: -6px !important;
+				}
+				/*The item coloring classes*/
+				.dp-f-black{
+					color: #000;
+					font-weight: 700;
+				}
+				.dp-f-gray{
+					color: #aaa;
+					font-weight: 700;
+				}
+				.dp-f-white{
+					color: #fff;
+					font-weight: 700;
+				}
+				.dp-b-white{
+					background-color: #fff;
+				}
+				.dp-b-yellow{
+					background-color: #ffff00;
+				}
+				.dp-b-light-orange{
+					background-color: #ffc778;
+				}
+				.dp-b-dark-orange{
+					background-color: #e28c38;
+				}
+				.dp-b-red{
+					background-color: #fa0101;
+				}
+				.dp-o-white{
+					border-color: #fff;
+					border-style:solid;
+				}
+				.dp-o-green{
+					border-color: #38a92c;
+					border-style:solid;
+				}
+				.dp-o-blue{
+					border-color: #6495ed;
+					border-style:solid;
+				}
+				.dp-o-red{
+					border-color: #fa0101;
+					border-style:solid;
+				}
+				.selectr{
+					float:right;
+					margin-left:780px
+
+				}
+				body, html{
+     height: 100%;
+     background-repeat: no-repeat;
+ 	background-color: #d3d3d3;
+ 	font-family: 'Oxygen', sans-serif;
+    font-size: 12px;
+}
+.portlet-body-selectpatient
+{
+	/*height:500px;*/
+}
+. formlabel
+{
+	font-size:12px;
+	float:left;
+}
+.selectpatient
+{
+
+   overflow: auto;
+	width:550px;
+}
+.form1
+{
+	/*width:250px;*/
+}
+.fileinput-preview
+{
+	width: 150px;
+	height: 150px;
+	line-height: 150px;
+	margin-top:30px;
+}
+.genderlabel
+{
+	font-size:12px;
+	margin-top:70px;
+}
+
+.comments
+{
+	margin-top:10px;
+}
+.list-item-content {
+    padding: 0 0px 0 60px;
+    padding-top: 0px;
+  /*  padding-right: 75px;*/
+    padding-bottom: 0px;
+    padding-left: 0px! important;
+}
+.gender
+{
+width:13px;
+margin-left:30px! important;
+margin-top:70px! important;
+
+}
+.icon{
+
+}
+
+label{
+	margin-bottom: 14px;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 9px;
+    padding-top: 3px;
+}
